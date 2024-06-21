@@ -3,7 +3,7 @@ module github.com/colibri-project-io/fc-live-200624
 go 1.22
 
 require (
-	github.com/colibri-project-io/colibri-sdk-go v0.0.4
+	github.com/colibri-project-io/colibri-sdk-go v0.0.5
 	github.com/google/uuid v1.5.0
 )
 
@@ -104,5 +104,3 @@ require (
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/colibri-project-io/colibri-sdk-go => ../colibri-sdk-go

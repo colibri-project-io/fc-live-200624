@@ -48,6 +48,8 @@ github.com/cespare/xxhash/v2 v2.2.0 h1:DC2CZ1Ep5Y4k3ZQ899DldepgrayRUGE6BBZ/cd9Cj
 github.com/cespare/xxhash/v2 v2.2.0/go.mod h1:VGX0DQ3Q6kWi7AoAeZDth3/j3BFtOZR5XLFGgcrjCOs=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/cncf/udpa/go v0.0.0-20191209042840-269d4d468f6f/go.mod h1:M8M6+tZqaGXZJjfX53e64911xZQV5JYwmTeXPW+k8Sc=
+github.com/colibri-project-io/colibri-sdk-go v0.0.5 h1:3dUQnihNtUxm6Ocr7YmDLRDflb3Z9LyH/5GeX1PzBB0=
+github.com/colibri-project-io/colibri-sdk-go v0.0.5/go.mod h1:mqLf3OTEPDVqq963Yh1HL9PPLP2u8DmInchnZyutOfI=
 github.com/containerd/containerd v1.7.3 h1:cKwYKkP1eTj54bP3wCdXXBymmKRQMrWjkLSWZZJDa8o=
 github.com/containerd/containerd v1.7.3/go.mod h1:32FOM4/O0RkNg7AjQj3hDzN9cUGtu+HMvaKUNiqCZB8=
 github.com/cpuguy83/dockercfg v0.3.1 h1:/FpZ+JaygUR/lZP2NlFI2DVfrOEMAIKP5wWEJdoYe9E=
